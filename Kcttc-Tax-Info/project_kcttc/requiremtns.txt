@@ -1,0 +1,12 @@
+The file needs python3 to be executed .
+
+Hoping python3 is installed.
+
+Install virutal env
+
+packages:
+ 	-requests
+	-beautifulsoup4
+
+You can install all the reuirements by running setup.sh file if you have linux os.
+
